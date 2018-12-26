@@ -1,0 +1,15 @@
+{
+  "name": "classwork8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1_mongoose_connect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yuval Ozeri",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.3.16"
+  }
+}
